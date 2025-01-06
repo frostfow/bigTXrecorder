@@ -1,0 +1,1 @@
+Hello! im frostfow a.k.a TypeDelta. These files here contains wallet tracking and transaction filtering. If you want to track choosed wallets or want to record big transactions, this tools are just for you. just copy and paste the code and choose any api services link and any chain you want and have fun!
